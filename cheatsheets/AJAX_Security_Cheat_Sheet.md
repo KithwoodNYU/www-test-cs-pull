@@ -2,7 +2,7 @@
 
 layout: col-document
 title: AJAX Security Cheat Sheet
-tags: cheat sheets, AJAX Security, AJAX
+tags: cheat sheets, AJAX Security, AJAX, Github Actions
 document: cheat sheets
 
 ---
