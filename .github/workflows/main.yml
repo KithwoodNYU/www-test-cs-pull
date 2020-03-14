@@ -2,7 +2,7 @@
 
 name: CheatSheets Update
 on:
-  buid_application:
+  repository_dispatch:
     branches: [ master ]
 
 jobs:
