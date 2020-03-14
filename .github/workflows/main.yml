@@ -1,5 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-
+# when test-cs-storage updates this action gets called
 name: CheatSheets Update
 on:
   repository_dispatch:
@@ -10,11 +9,11 @@ jobs:
         runs-on: [ubuntu-latest]
         
         steps:
-            - name: Update this repo with items from remote repo
-        run: |
-            git clone https://.:${{ secrets.GITHUB_TOKEN }}@github.com/owasp/CheatSheetSeries www-test-cs-pull
-            rm www-test-cs-pull
-            copy CheatSheetSeries\cheatsheets www-test-cs-pull
-            git add www-test-cs-pull
-            git commit -m "Automatic publish from github.com/owasp/CheatSheetSeries"
-            git push www-test-cs-pull master
+          - name: Update this repo with items from remote repo
+            run: |
+                git clone https://.:${{ secrets.GITHUB_TOKEN }}@github.com/owasp/test-cs-storage www-test-cs-pull
+                rm www-test-cs-pull
+                copy test-cs-storage\cheatsheets www-test-cs-pull
+                git add www-test-cs-pull
+                git commit -m "Automatic publish from github.com/owasp/test-cs-storage"
+                git push www-test-cs-pull master
