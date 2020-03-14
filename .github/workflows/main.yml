@@ -9,15 +9,16 @@ jobs:
         runs-on: [ubuntu-latest]
         
         steps:
+          - uses: actions/checkout@v2
           - name: Update this repo with items from remote repo
             run: |
               echo "Git Clone" 
-              git clone https://github.com/owasp/test-cs-storage www-test-cs-pull
+              git clone https://github.com/owasp/test-cs-storage 
               echo "rm...what is this and why"
-              rm www-test-cs-pull
+              rm -r www-test-cs-pull\cheatsheets\*
               echo "copy"
-              copy test-cs-storage\cheatsheets www-test-cs-pull
+              copy -r test-cs-storage\cheatsheets www-test-cs-pull
               echo "git add commit and push"
-              git add www-test-cs-pull
+              git add www-test-cs-pull\cheatsheets
               git commit -m "Automatic publish from github.com/owasp/test-cs-storage"
               git push www-test-cs-pull master
