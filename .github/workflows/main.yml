@@ -15,9 +15,9 @@ jobs:
             with:
               python-version: '3.7' # Semantic version range syntax or exact version of a Python version
           - name: Display Python version
-              run: python -V
+            run: python -V
           - name: Update this repo with items from remote repo
-              run: |
+            run: |
               echo "Git Clone" 
               git clone https://github.com/owasp/test-cs-storage ~/test-cs-storage
               echo "rm...what is this and why"
