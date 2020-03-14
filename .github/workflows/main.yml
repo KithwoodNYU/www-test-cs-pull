@@ -20,5 +20,7 @@ jobs:
               cp -r ~/test-cs-storage/cheatsheets .
               echo "git add commit and push"
               git add cheatsheets
+              git config --global user.name 'Harold Blankenship'
+              git config --global user.email 'hblankenship@owasp.com'
               git commit -m "Automatic publish from github.com/owasp/test-cs-storage"
               git push www-test-cs-pull master
