@@ -1,0 +1,11 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CheatSheets Update
+
+run: |
+    git clone https://.:${{ secrets.GITHUB_TOKEN }}@github.com/owasp/CheatSheetSeries www-test-cs-pull
+    rm www-test-cs-pull
+    copy CheatSheetSeries\cheatsheets www-test-cs-pull
+    git add www-test-cs-pull
+    git commit -m "Automatic publish from github.com/owasp/CheatSheetSeries"
+    git push www-test-cs-pull master
