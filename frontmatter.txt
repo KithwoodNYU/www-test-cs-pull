@@ -1,0 +1,9 @@
+---
+
+title: {:pagetitle}
+layout: col-document
+tags: {:tags}
+document: cheat sheets
+
+---
+
