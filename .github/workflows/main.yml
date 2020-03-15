@@ -22,10 +22,11 @@ jobs:
               rm -r cheatsheets/*
               echo "copy"
               cp -r ~/test-cs-storage/cheatsheets .
+              python update_files.py
               echo "git add commit and push"
               git add cheatsheets
               git config --global user.name 'Harold Blankenship'
               git config --global user.email 'hblankenship@owasp.com'
               git commit -m "Automatic publish from github.com/owasp/test-cs-storage"
               git push https://github.com/owasp/www-test-cs-pull master
-              python update_files.py
+              
