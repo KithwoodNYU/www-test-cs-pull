@@ -1,3 +1,13 @@
+---
+
+title: Clickjacking Defense
+layout: col-document
+tags: cheat sheets, Clickjacking Defense
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 This cheat sheet is intended to provide guidance for developers on how to defend against [Clickjacking](https://www.owasp.org/index.php/Clickjacking), also known as UI redress attacks.

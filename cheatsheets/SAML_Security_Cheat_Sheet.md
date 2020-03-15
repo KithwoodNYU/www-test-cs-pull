@@ -1,3 +1,13 @@
+---
+
+title: SAML Security
+layout: col-document
+tags: cheat sheets, SAML Security
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 The **S**ecurity **A**ssertion **M**arkup **L**anguage ([SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language)) is an open standard for exchanging authorization and authentication information. The *Web Browser SAML/SSO Profile with Redirect/POST bindings* is one of the most common SSO implementation. This cheatsheet will focus primarily on that profile.

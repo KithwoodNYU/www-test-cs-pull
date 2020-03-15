@@ -1,3 +1,13 @@
+---
+
+title: Forgot Password
+layout: col-document
+tags: cheat sheets, Forgot Password
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 This article provides a simple model to follow when implementing a *forgot password* web application feature.

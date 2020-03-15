@@ -1,3 +1,13 @@
+---
+
+title: Injection Prevention
+layout: col-document
+tags: cheat sheets, Injection Prevention
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 This document has for objective to provide some tips to handle *Injection* into Java application code.

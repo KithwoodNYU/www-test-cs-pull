@@ -1,3 +1,13 @@
+---
+
+title: Authorization Testing Automation.md
+layout: col-document
+tags: cheat sheets, Authorization Testing Automation.md
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 Authorizations definition and implementation is one of the important protection measure of an application. They are defined in the creation phase of the project and, even if authorization issues are found when the application is initially released and submitted to a security audit before to go live, the most significant number of issues related to authorization came in the maintenance lifetime of the application.

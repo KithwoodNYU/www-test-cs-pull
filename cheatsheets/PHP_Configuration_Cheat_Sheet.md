@@ -1,3 +1,13 @@
+---
+
+title: PHP Configuration
+layout: col-document
+tags: cheat sheets, PHP Configuration
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 This page is meant to help those configuring PHP and the web server it is running on to be very secure.

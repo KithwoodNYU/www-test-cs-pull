@@ -1,3 +1,13 @@
+---
+
+title: LDAP Injection Prevention
+layout: col-document
+tags: cheat sheets, LDAP Injection Prevention
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 This cheatsheet is focused on providing clear, simple, actionable guidance for preventing LDAP Injection flaws in your applications.

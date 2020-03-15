@@ -1,3 +1,13 @@
+---
+
+title: Denial of Service
+layout: col-document
+tags: cheat sheets, Denial of Service
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 This sheet is focused on providing an overall, common overview with an informative, straight to the point guidance to propose angles on how to battle denial of service (DoS) attacks on different layers. It is by no means complete, however, it should serve as an indicator to inform the reader and to introduce a workable methodology to tackle this issue.

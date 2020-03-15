@@ -1,3 +1,13 @@
+---
+
+title: Docker Security
+layout: col-document
+tags: cheat sheets, Docker Security
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 Docker containers are the most popular containerisation technology. Used properly can increase level of security (in comparison to running application directly on the host). On the other hand some misconfigurations can lead to downgrade level of security or even introduce new vulnerabilities.

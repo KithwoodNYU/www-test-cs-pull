@@ -1,3 +1,13 @@
+---
+
+title: SQL Injection Prevention
+layout: col-document
+tags: cheat sheets, SQL Injection Prevention
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 This article is focused on providing clear, simple, actionable guidance for preventing SQL Injection flaws in your applications. [SQL Injection](https://www.owasp.org/index.php/SQL_Injection) attacks are unfortunately very common, and this is due to two factors:

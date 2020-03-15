@@ -1,3 +1,13 @@
+---
+
+title: C-Based Toolchain Hardening.md
+layout: col-document
+tags: cheat sheets, C-Based Toolchain Hardening.md
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 C-Based Toolchain Hardening is a treatment of project settings that will help you deliver reliable and secure code when using C, C++ and Objective C languages in a number of development environments. This article will examine Microsoft and GCC toolchains for the C, C++ and Objective C languages. It will guide you through the steps you should take to create executables with firmer defensive postures and increased integration with the available platform security. Effectively configuring the toolchain also means your project will enjoy a number of benefits during development, including enhanced warnings and static analysis, and self-debugging code.

@@ -1,3 +1,13 @@
+---
+
+title: Error Handling
+layout: col-document
+tags: cheat sheets, Error Handling
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 Error handling is a part of the overall security of an application. Except in movies, an attack always begin by a **Reconnaissance** phase in which the attacker will try to gather as much technical information (often *name* and *version* properties) as possible about the target, such as the application server, frameworks, libraries, etc.

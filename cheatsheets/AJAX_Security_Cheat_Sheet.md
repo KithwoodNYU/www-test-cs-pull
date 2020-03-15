@@ -1,3 +1,13 @@
+---
+
+title: AJAX Security
+layout: col-document
+tags: cheat sheets, AJAX Security
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 This document will provide a starting point for AJAX security and will hopefully be updated and expanded reasonably often to provide more detailed information about specific frameworks and technologies.

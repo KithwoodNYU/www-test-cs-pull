@@ -1,3 +1,13 @@
+---
+
+title: Virtual Patching
+layout: col-document
+tags: cheat sheets, Virtual Patching
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 The goal with this cheat Sheet is to present a concise virtual patching framework that organizations can follow to maximize the timely implementation of mitigation protections.

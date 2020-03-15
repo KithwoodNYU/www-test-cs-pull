@@ -1,3 +1,13 @@
+---
+
+title: Authentication
+layout: col-document
+tags: cheat sheets, Authentication
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 **Authentication** is the process of verifying that an individual, entity or website is who it claims to be. Authentication in the context of web applications is commonly performed by submitting a username or ID and one or more items of private information that only a given user should know.

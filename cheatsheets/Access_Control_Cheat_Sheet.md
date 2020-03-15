@@ -1,3 +1,13 @@
+---
+
+title: Access Control
+layout: col-document
+tags: cheat sheets, Access Control
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 This article is focused on providing clear, simple, actionable guidance for providing access control security in your applications. The objective is to provide guidance to developers, reviewers, designers, architects on designing, creating and maintaining access controls in web applications.

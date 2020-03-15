@@ -1,3 +1,13 @@
+---
+
+title: Multifactor Authentication
+layout: col-document
+tags: cheat sheets, Multifactor Authentication
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 Multifactor authentication (MFA), or Two-Factor Authentication (2FA) is when a user is required to present more than one type of evidence in order to authenticate on a system. There are four different types of evidence (or factors) that can be used, listed in the table below:

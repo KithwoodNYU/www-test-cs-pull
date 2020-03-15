@@ -1,3 +1,13 @@
+---
+
+title: C-Based Toolchain Hardening
+layout: col-document
+tags: cheat sheets, C-Based Toolchain Hardening
+document: cheat sheets
+
+---
+
+
 
 # Introduction
 

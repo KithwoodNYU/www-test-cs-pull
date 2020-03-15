@@ -1,3 +1,13 @@
+---
+
+title: Transaction Authorization
+layout: col-document
+tags: cheat sheets, Transaction Authorization
+document: cheat sheets
+
+---
+
+
 # Purpose and audience
 
 The Purpose of this cheat sheet is to provide guidelines on how to securely implement transaction authorization to protect it from being bypassed. These guidelines can be used by:

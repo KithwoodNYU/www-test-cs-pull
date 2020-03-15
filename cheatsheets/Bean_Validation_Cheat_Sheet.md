@@ -1,3 +1,13 @@
+---
+
+title: Bean Validation
+layout: col-document
+tags: cheat sheets, Bean Validation
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 This article is focused on providing clear, simple, actionable guidance for providing Java Bean Validation security functionality in your applications.

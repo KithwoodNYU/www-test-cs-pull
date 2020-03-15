@@ -1,3 +1,13 @@
+---
+
+title: JSON Web Token
+layout: col-document
+tags: cheat sheets, JSON Web Token
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 Many applications use **JSON Web Tokens** (JWT) to allow the client to indicate its identity for further exchange after authentication.

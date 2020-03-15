@@ -1,3 +1,13 @@
+---
+
+title: Microservices based Security Arch Doc
+layout: col-document
+tags: cheat sheets, Microservices based Security Arch Doc
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 The microservice architecture is being increasingly used for designing and implementing application systems in both cloud-based and on-premise infrastructures. There are many security challenges need to be addressed in the application design and implementation phases. In order to address some security challenges it is necessity to collect security-specific information on application architecture.

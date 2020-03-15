@@ -1,3 +1,13 @@
+---
+
+title: Choosing and Using Security Questions
+layout: col-document
+tags: cheat sheets, Choosing and Using Security Questions
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 This cheat sheet provides some best practice for developers to follow when choosing and using security questions to implement a "forgot password" web application feature.

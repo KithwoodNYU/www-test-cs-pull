@@ -1,3 +1,13 @@
+---
+
+title: info.md
+layout: col-document
+tags: cheat sheets, info.md
+document: cheat sheets
+
+---
+
+
 {% assign cheatsheets = site.pages | where_exp: "page", "page.tags contains page.document" %}
 <ul>
 {% for page in cheatsheets %}

@@ -1,3 +1,13 @@
+---
+
+title: Protect FileUpload Against Malicious File.md
+layout: col-document
+tags: cheat sheets, Protect FileUpload Against Malicious File.md
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 This article propose a way to protect a file upload feature against submission of file containing malicious code.

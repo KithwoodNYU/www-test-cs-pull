@@ -1,3 +1,13 @@
+---
+
+title: XML Security
+layout: col-document
+tags: cheat sheets, XML Security
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 Specifications for XML and XML schemas include multiple security flaws. At the same time, these specifications provide the tools required to protect XML applications. Even though we use XML schemas to define the security of XML documents, they can be used to perform a variety of attacks: file retrieval, server side request forgery, port scanning, or brute forcing. This cheat sheet exposes how to exploit the different possibilities in libraries and software divided in two sections:

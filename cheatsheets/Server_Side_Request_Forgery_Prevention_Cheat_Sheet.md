@@ -1,3 +1,13 @@
+---
+
+title: Server Side Request Forgery Prevention
+layout: col-document
+tags: cheat sheets, Server Side Request Forgery Prevention
+document: cheat sheets
+
+---
+
+
 # Introduction
 
 The objective of the cheat sheet is to provide advices regarding the protection against [Server Side Request Forgery](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/) (SSRF) attack.

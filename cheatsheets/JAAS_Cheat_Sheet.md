@@ -1,3 +1,13 @@
+---
+
+title: JAAS
+layout: col-document
+tags: cheat sheets, JAAS
+document: cheat sheets
+
+---
+
+
 # Introduction - What is JAAS authentication?
 
 The process of verifying the identity of a user or another system is authentication. 
