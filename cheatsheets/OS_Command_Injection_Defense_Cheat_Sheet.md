@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: OS Command Injection Defense Cheat Sheet
-tags: cheat sheets, OS Command Injection Defense
-document: cheat sheets
-
----
-
 # Introduction
 
 Command injection (or OS Command Injection) is a type of injection where the software, that constructs a system command using externally influenced input, does not correctly neutralizes the input from special elements that can modify the initially intended command.

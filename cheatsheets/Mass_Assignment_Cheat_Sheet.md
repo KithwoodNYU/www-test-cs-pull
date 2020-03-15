@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Mass Assignment Cheat Sheet
-tags: cheat sheets, Mass Assignment
-document: cheat sheets
-
----
-
 # Introduction
 
 ## Definition

@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Unvalidated Redirects and Forwards Cheat Sheet
-tags: cheat sheets, Unvalidated Redirects and Forwards
-document: cheat sheets
-
----
-
 # Introduction
 
 Unvalidated redirects and forwards are possible when a web application accepts untrusted input that could cause the web application to redirect the request to a URL contained within untrusted input. By modifying untrusted URL input to a malicious site, an attacker may successfully launch a phishing scam and steal user credentials. 

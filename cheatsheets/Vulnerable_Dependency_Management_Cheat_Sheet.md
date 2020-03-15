@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Vulnerable Dependency Management Cheat Sheet
-tags: cheat sheets, Vulnerable Dependency Management
-document: cheat sheets
-
----
-
 # Introduction
 
 The objective of the cheat sheet is to provide a proposal of approach regarding the handling of vulnerable third-party dependencies when they are detected, and this, depending on different situation.

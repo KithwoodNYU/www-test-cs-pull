@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: JSON Web Token Cheat Sheet for Java
-tags: cheat sheets, JSON Web Token Cheat Sheet for Java.md
-document: cheat sheets
-
----
-
 # Introduction
 
 Many applications use **JSON Web Tokens** (JWT) to allow the client to indicate its identity for further exchange after authentication.

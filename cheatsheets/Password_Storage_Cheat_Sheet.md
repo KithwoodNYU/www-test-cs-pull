@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Password Storage Cheat Sheet
-tags: cheat sheets, Password Storage
-document: cheat sheets
-
----
-
 # Introduction
 
 As the majority of users will re-use passwords between different applications, it is important to store passwords in a way that that prevents them from being obtained by an attacker, even if the application or database is compromised. As with most areas of cryptography, there are a many different factors that need to be considered, but happily, the majority of modern languages and frameworks provide built-in functionality to help store passwords, which handles much of the complexity.

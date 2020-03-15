@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Nodejs security cheat sheet
-tags: cheat sheets, Nodejs security cheat sheet.md
-document: cheat sheets
-
----
-
 # Introduction
 
 This cheat sheet lists the things one can use when developing secure Node.js applications. Each item has a brief explanation and solution that is specific to Node.js environment.

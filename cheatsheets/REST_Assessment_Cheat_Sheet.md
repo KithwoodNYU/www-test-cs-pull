@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: REST Assessment Cheat Sheet
-tags: cheat sheets, REST Assessment
-document: cheat sheets
-
----
-
 # About RESTful Web Services
 
 Web Services are an implementation of web technology used for machine to machine communication. As such they are used for Inter application communication, Web 2.0 and Mashups and by desktop and mobile applications to call a server. 

@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Logging Cheat Sheet
-tags: cheat sheets, Logging
-document: cheat sheets
-
----
-
 # Introduction
 
 This cheat sheet is focused on providing developers with concentrated guidance on building application logging mechanisms, especially related to security logging. 

@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: HTML5 Security Cheat Sheet
-tags: cheat sheets, HTML5 Security
-document: cheat sheets
-
----
-
 # Introduction
 
 The following cheat sheet serves as a guide for implementing HTML 5 in a secure fashion.

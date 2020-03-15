@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: DOM based XSS Prevention Cheat Sheet
-tags: cheat sheets, DOM based XSS Prevention
-document: cheat sheets
-
----
-
 # Introduction
 
 When looking at XSS (Cross-Site Scripting), there are three generally recognized forms of [XSS](https://www.owasp.org/index.php/Cross-site_Scripting_%28XSS%29):

@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Deserialization Cheat Sheet
-tags: cheat sheets, Deserialization
-document: cheat sheets
-
----
-
 # Introduction
 
 This article is focused on providing clear, actionable guidance for safely deserializing untrusted data in your applications.

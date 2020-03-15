@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Attack Surface Analysis Cheat Sheet
-tags: cheat sheets, Attack Surface Analysis
-document: cheat sheets
-
----
-
 # What is Attack Surface Analysis and Why is it Important?
 
 This article describes a simple and pragmatic way of doing Attack Surface Analysis and managing an application's Attack Surface. It is targeted to be used by developers to understand and manage application security risks as they design and change an application, as well as by application security specialists doing a security risk assessment. The focus here is on protecting an application from external attack - it does not take into account attacks on the users or operators of the system (e.g. malware injection, social engineering attacks), and there is less focus on insider threats, although the principles remain the same. The internal attack surface is likely to be different to the external attack surface and some users may have a lot of access.

@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Web Service Security Cheat Sheet
-tags: cheat sheets, Web Service Security
-document: cheat sheets
-
----
-
 # Introduction
 
 This article is focused on providing guidance to securing web services and preventing web services related attacks. 

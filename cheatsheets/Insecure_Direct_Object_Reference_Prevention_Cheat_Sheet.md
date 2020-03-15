@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Insecure Direct Object Reference Prevention Cheat Sheet
-tags: cheat sheets, Insecure Direct Object Reference Prevention
-document: cheat sheets
-
----
-
 # Introduction
 
 **I**nsecure **D**irect **O**bject **R**eference (called **IDOR** from here) occurs when a application exposes a reference to an internal implementation object. Using this way, it reveals the real identifier and format/pattern used of the element in the storage backend side. The most common example of it (although is not limited to this one) is a record identifier in a storage system (database, filesystem and so on).

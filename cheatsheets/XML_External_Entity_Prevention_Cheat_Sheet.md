@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: XML External Entity Prevention Cheat Sheet
-tags: cheat sheets, XML External Entity Prevention
-document: cheat sheets
-
----
-
 # Introduction
 
 *XML eXternal Entity injection* (XXE), which is now part of the [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) via the point **A4**, is a type of attack against an application that parses XML input.

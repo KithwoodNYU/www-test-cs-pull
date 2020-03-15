@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: REST Security Cheat Sheet
-tags: cheat sheets, REST Security
-document: cheat sheets
-
----
-
 # Introduction
 
 [REST](http://en.wikipedia.org/wiki/Representational_state_transfer) (or **RE**presentational **S**tate **T**ransfer) is an architectural style first described in [Roy Fielding](https://en.wikipedia.org/wiki/Roy_Fielding)'s Ph.D. dissertation on [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm).

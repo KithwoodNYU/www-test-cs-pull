@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: DotNet Security Cheat Sheet
-tags: cheat sheets, DotNet Security
-document: cheat sheets
-
----
-
 # Introduction
 
 This page intends to provide quick basic .NET security tips for developers.

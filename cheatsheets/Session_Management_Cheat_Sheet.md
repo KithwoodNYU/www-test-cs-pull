@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Session Management Cheat Sheet
-tags: cheat sheets, Session Management
-document: cheat sheets
-
----
-
 # Introduction
 
 **Web Authentication, Session Management, and Access Control**:

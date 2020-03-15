@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Pinning Cheat Sheet
-tags: cheat sheets, Pinning
-document: cheat sheets
-
----
-
 # Introduction
 
 The Pinning Cheat Sheet is a technical guide to implementing certificate and public key pinning as discussed at the Virginia chapter's presentation [Securing Wireless Channels in the Mobile Space](https://www.owasp.org/images/8/8f/Securing-Wireless-Channels-in-the-Mobile-Space.ppt). This guide is focused on providing clear, simple, actionable guidance for securing the channel in a hostile environment where actors could be malicious and the conference of trust a liability.

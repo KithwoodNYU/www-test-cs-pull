@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Cryptographic Storage Cheat Sheet
-tags: cheat sheets, Cryptographic Storage
-document: cheat sheets
-
----
-
 # Introduction
 
 This article provides a simple model to follow when implementing solutions to protect data at rest.

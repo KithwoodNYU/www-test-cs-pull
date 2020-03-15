@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Input Validation Cheat Sheet
-tags: cheat sheets, Input Validation
-document: cheat sheets
-
----
-
 # Introduction
 
 This article is focused on providing clear, simple, actionable guidance for providing Input Validation security functionality in your applications.

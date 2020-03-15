@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Third Party Javascript Management Cheat Sheet
-tags: cheat sheets, Third Party Javascript Management
-document: cheat sheets
-
----
-
 # Introduction
 
 Tags, aka marketing tags, analytics tags etc. are small bits of javascript on a web page. They can also be HTML image elements when javascript is disabled. The reason for them is to collect data on the web user actions and browsing context for use by the web page owner in marketing.

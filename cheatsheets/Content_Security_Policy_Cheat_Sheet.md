@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Content Security Policy Cheat Sheet
-tags: cheat sheets, Content Security Policy
-document: cheat sheets
-
----
-
 # Introduction
 
 This article brings forth a way to integrate the `defense in depth` concept to the client-side of web applications. By injecting the Content-Security-Policy (CSP) headers from the server, the browser is aware and capable of protecting the user from dynamic calls that will load content into the page currently being visited.

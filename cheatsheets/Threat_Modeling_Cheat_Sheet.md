@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Threat Modeling Cheat Sheet
-tags: cheat sheets, Threat Modeling
-document: cheat sheets
-
----
-
 # Introduction
 
 Objective of the Threat Modelling Control Cheat Sheet – To provide guidance to architects, designers and reviewers, on deriving threat models for applications.

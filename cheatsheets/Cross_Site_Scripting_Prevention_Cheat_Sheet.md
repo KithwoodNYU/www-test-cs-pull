@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Cross Site Scripting Prevention Cheat Sheet
-tags: cheat sheets, Cross Site Scripting Prevention
-document: cheat sheets
-
----
-
 # Introduction
 
 This article provides a simple positive model for preventing [XSS](https://www.owasp.org/index.php/XSS) using output escaping/encoding properly. While there are a huge number of XSS attack vectors, following a few simple rules can completely defend against this serious attack.

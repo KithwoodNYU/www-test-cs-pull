@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Abuse Case Cheat Sheet
-tags: cheat sheets, Abuse Case
-document: cheat sheets
-
----
-
 # Introduction
 
 Often when the security level of an application is mentioned in requirements, the following *expressions* are met:

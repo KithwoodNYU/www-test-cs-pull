@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: TLS Cipher String Cheat Sheet
-tags: cheat sheets, TLS Cipher String
-document: cheat sheets
-
----
-
 # Introduction
 
 This article is focused on providing clear and simple examples for the cipher string. They are based on different scenarios where you use the Transport Layer Security (TLS) protocol.

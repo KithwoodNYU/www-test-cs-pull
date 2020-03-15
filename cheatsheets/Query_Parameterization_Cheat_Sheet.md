@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Query Parameterization Cheat Sheet
-tags: cheat sheets, Query Parameterization
-document: cheat sheets
-
----
-
 # Introduction
 
 [SQL Injection](https://www.owasp.org/index.php/SQL_Injection) is one of the most dangerous web vulnerabilities. So much so that it's the [\#1 item in the OWASP Top 10](https://www.owasp.org/index.php/Top_10_2013-A1-Injection). 

@@ -1,12 +1,3 @@
----
-
-layout: col-document
-title: Ruby on Rails Cheatsheet
-tags: cheat sheets, Ruby on Rails Cheatsheet.md
-document: cheat sheets
-
----
-
 # Introduction
 
 This *Cheatsheet* intends to provide quick basic Ruby on Rails security tips for developers. It complements, augments or emphasizes points brought up in the [rails security guide](http://guides.rubyonrails.org/security.html) from rails core. 
