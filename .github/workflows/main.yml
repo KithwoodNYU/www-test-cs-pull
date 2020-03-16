@@ -1,4 +1,5 @@
-# when test-cs-storage updates this action gets called
+# this action goes in www-project-cheat-sheets
+# when CheatSheetsSeries updates this action will get called
 name: CheatSheets Update
 on:
   repository_dispatch:
@@ -16,14 +17,19 @@ jobs:
               python-version: '3.7' # Semantic version range syntax or exact version of a Python version
           - name: Update this repo with items from remote repo
             run: |
-              echo "Git Clone" 
+              # change this to clone the CheatSheetSeries repository
               git clone https://github.com/owasp/test-cs-storage ~/test-cs-storage
-              echo "rm...what is this and why"
+              # remove local cheatsheets
               rm -r cheatsheets/*
-              echo "copy"
+              # copy the cheetsheets from CheatSheetSeries
+              # TODO: change the folder to match the git clone
               cp -r ~/test-cs-storage/cheatsheets .
+              # update_files.py should reside in www-project-cheat-sheets
+              # the script adds the front matter to each cheat sheet
               python update_files.py
-              echo "git add commit and push"
+              # commit and push the files to the www-project-cheat-sheets repo
+              # TODO: change the repo on the push and update the user and email if you prefer
+              # TODO: make sure to set up your github tokens
               git add cheatsheets
               git config --global user.name 'Harold Blankenship'
               git config --global user.email 'hblankenship@owasp.com'
